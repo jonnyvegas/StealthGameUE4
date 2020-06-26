@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{B80D51C7-4754-2FAF-3B59-D9BA75E360D8}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "StealthGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
